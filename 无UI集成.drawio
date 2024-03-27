@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T00:35:23.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.5" etag="pwfjHTlZsanpeFyoyO3h" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T00:35:52.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xVqqmK-LaIluW_tjTAoM" version="24.0.5" type="github">
   <diagram name="第 1 页" id="st9jeoa3LNCE8cfvnLqQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MRCUsg1Q3m7LGcfqn1Xa-1" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;导入SDK&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4176bd;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="167" y="171" width="181" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="MRCUsg1Q3m7LGcfqn1Xa-2" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;进出房间&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4176bd;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="488" y="173" width="181" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="MRCUsg1Q3m7LGcfqn1Xa-3" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;打开自己的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;音视频流&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4176bd;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="169" y="370" width="181" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="MRCUsg1Q3m7LGcfqn1Xa-4" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;订阅远端的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;音视频流&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4176bd;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="488" y="372" width="181" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="MRCUsg1Q3m7LGcfqn1Xa-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#4176bd;strokeWidth=3;width=19;endSize=9.67;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="381" y="226.5" as="sourcePoint" />
+            <mxPoint x="455" y="226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MRCUsg1Q3m7LGcfqn1Xa-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#4176bd;strokeWidth=3;width=19;endSize=9.67;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="456" y="416" as="sourcePoint" />
+            <mxPoint x="382" y="416.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MRCUsg1Q3m7LGcfqn1Xa-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#4176bd;strokeWidth=3;width=19;endSize=9.67;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="578" y="290" as="sourcePoint" />
+            <mxPoint x="578" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
